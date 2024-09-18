@@ -12,4 +12,4 @@ Another thing that I learned from this project what RBG colors were, and how the
 used them, so today with the help of the Google search engine, I managed to learn about some common RGB colors and even
 start implementing them in my project.
 
-I will continue the update this project tomorrow till it's deadline period.
+I will continue the update this project tomorrow till it's deadline .
